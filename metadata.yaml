@@ -1,0 +1,32 @@
+_repo: La-Guerre-Sociale--13-Discours-Prononc--au-Congr-s-de-la-Paix_14804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Léo, André
+    aliases:
+    - Malon, Léodile
+    - Champseix, Léodile
+    - Leo, Andre
+    - Béra, Léodile
+    - Champceix, Léodile Bera de
+    - Bera, Leodile
+    gutenberg_agent_id: '5696'
+    url: http://www.gutenberg.org/2009/agents/5696
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2005-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14804'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- History -- Commune, 1871'
+title: "La Guerre Sociale\r\nDiscours Prononcé au Congrès de la Paix"
+url: http://www.gutenberg.org/ebooks/14804
